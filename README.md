@@ -30,7 +30,7 @@ Listed resources should include (as available):
 📋 [**Founder Advisor Standard Template (FAST)**](https://app.openlaw.io/template/Founder%20Advisor%20Standard%20Template%20(FAST)) / / general alt: 📋 [**Advisor Agreement**](https://app.openlaw.io/template/Advisor%20Agreement)
 
 * 🤐 *Get confidential*
-📋 [**Mutual Non-Dislosure Agreement (NDA)**](https://app.openlaw.io/template/Mutual%20Non-disclosure%20Agreement%20(NDA)): This form consists of a simple NDA to structure a confidential relationship between two parties (often used to protect trade secrets or other proprietary information).
+📋 [**Mutual Non-Dislosure Agreement (NDA)**](https://app.openlaw.io/template/template%20marketplace%20-%20mutual%20nda): This form consists of a simple NDA to structure a confidential relationship between two parties (often used to protect trade secrets or other proprietary information).
 
 * 🌱*Get seed capital*:
 📋 [**Shared Earnings Agreement**](https://app.openlaw.io/template/Shared%20Earnings%20Agreement) / / equity alt:
@@ -208,7 +208,7 @@ For additional details, see [YC Extended SAFE Description](https://www.ycombinat
 
 > *A Mutual Non-Disclosure Agreement (NDA) essentially creates a confidential relationship between two parties and is often used to protect trade secrets or other proprietary information.* 
 
-* [**Mutual Non-Dislosure Agreement (NDA)**](https://app.openlaw.io/template/Mutual%20Non-disclosure%20Agreement%20(NDA))
+* [**Mutual Non-Dislosure Agreement (NDA)**](https://app.openlaw.io/template/template%20marketplace%20-%20mutual%20nda)
 
 #### Code of Conduct
 
